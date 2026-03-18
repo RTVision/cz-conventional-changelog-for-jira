@@ -2,11 +2,11 @@
   "name": "@rtvision/cz-conventional-changelog-for-jira",
   "version": "0.0.2",
   "description": "Commitizen adapter following the conventional-changelog format and also asking for JIRA issue.",
-  "homepage": "https://github.com/digitalroute/cz-conventional-changelog-for-jira",
+  "homepage": "https://github.com/rtvision/cz-conventional-changelog-for-jira",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitalroute/cz-conventional-changelog-for-jira.git"
+    "url": "https://github.com/rtvision/cz-conventional-changelog-for-jira.git"
   },
   "files": [
     "dist"
