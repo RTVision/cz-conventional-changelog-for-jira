@@ -15,6 +15,5 @@ export default defineConfig({
     dts: '.d.ts',
   }),
   platform: 'node',
-  sourcemap: true,
   target: 'esnext',
 });
